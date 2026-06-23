@@ -10,8 +10,6 @@ permalink: /
 
 Hi, I’m Ingrid.
 
-Hi, I’m Ingrid.
-
 I’m a data analyst and business-systems professional with a background in economics, research, statistics, reporting, data management and software.
 
 My experience includes data quality, SQL reporting, dashboard development, KPI tracking, business requirements, user acceptance testing, and process documentation. I’ve worked with enterprise data, learning management systems, labour market reporting, master data management, and business intelligence tools. I’m comfortable moving between technical work and stakeholder conversations, which means I can write the query, validate the data, explain the result, and document processes and best practices.
