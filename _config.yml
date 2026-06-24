@@ -25,7 +25,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
- # Author's home: "https://github.com/TeamIngrid"
+ # Author's home: "https://github.com/IngridsLeudatum"
 
 ################
 # --- Logo --- #
@@ -54,7 +54,7 @@ social-network-links:
   email: "hunk-glitch-panda@duck.com"
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: N/A
-  github: TeamIngrid
+  github: IngridsLeudatum
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
   linkedin: ingrid-diaz-42b4b7330/
@@ -95,7 +95,7 @@ share-links-active:
   facebook: false
   linkedin: true
   vk: false
-  reddit: false
+  Reddit: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
