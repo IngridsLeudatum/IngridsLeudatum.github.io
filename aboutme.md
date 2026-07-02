@@ -23,5 +23,5 @@ This site is a place for my portfolio, projects, resume, and notes as I continue
 - I read when time permits
 - and I'm always excited to learn something new
 
-For more information, feel free to check out my resume below.
+For more information, feel free to check out my resume.
 
